@@ -2,6 +2,5 @@
   "lang": "eex",
   "url": "https://github.com/connorlay/tree-sitter-eex",
   "semver": false,
-  "parser_version": "f742f2fe327463335e8671a87c0b9b396905d1d1",
-  "location": null
+  "parser_version": "f742f2fe327463335e8671a87c0b9b396905d1d1"
 }
